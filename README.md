@@ -4,19 +4,19 @@
 
 &nbsp;
 
-
-🎓 Administradora em Transição de Carreira; 
-
 ### 🙋🏻‍♀️ 💻 Estou em busca de uma oportunidade na área de TI  💻🙋🏻‍♀️ 
 
-🎓 Em 2023, concluí o **Bootcamp de Desenvolvimento Web** pela [Laboratoria Brasil](https://curriculum.laboratoria.la/pt/)
+</div>
 
-🎓 Atualmente, estou cursando o programa profissionalizante de **Full Stack Java** na [EBAC - Escola Britânica de Artes Criativas](https://ebaconline.com.br/)
-
+🎓 Administradora em Transição de Carreira <br> 
+🎓 Em 2023, concluí o **Bootcamp de Desenvolvimento Web** pela [Laboratoria Brasil](https://curriculum.laboratoria.la/pt/) <br>
+🎓 Atualmente, estou cursando o programa profissionalizante de **Full Stack Java** na [EBAC - Escola Britânica de Artes Criativas](https://ebaconline.com.br/) <br>
 🎓 Também estou participando do **Bootcamp Santander 2024 - Backend com Java** na [DIO - Digital Innovation One](https://www.dio.me/)
 
 &nbsp;
 
+<div align="center">
+  
 ## Sobre mim
 
 Já desenvolvi projetos práticos, onde pude aprimorar minhas habilidades em HTML, CSS, JavaScript e Java. Explorar tecnologias como Firebase e PostgreSQL, participei na implementação de Testes Unitários, utilizei o Express no desenvolvimento com NodeJS, e trabalhei com ferramentas como Figma para o design de interfaces.
