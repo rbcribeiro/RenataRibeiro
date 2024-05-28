@@ -1,6 +1,10 @@
+
+
+
 <div align="center">
 
 # Olá pessoas! Eu sou Renata Ribeiro! 🤗
+
 
 &nbsp;
 
@@ -30,6 +34,17 @@ Como lazer gosto de estar em contato com a naturaza, exercitar o corpo, conhecer
 &nbsp;
 
 ## HABILIDADES
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rbcribeiro&layout=compact&show_icons=true&theme=dark&hide_title=true&card_width=300"
+    media="(prefers-color-scheme: dark)"
+  />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" width="450" />
+</picture>
+
+&nbsp;
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
@@ -68,6 +83,8 @@ Como lazer gosto de estar em contato com a naturaza, exercitar o corpo, conhecer
 ![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-000?style=for-the-badge&logo=githubprojects&logoColor=30A3DC)
 ![Responsividade](https://img.shields.io/badge/Responsividade-000?style=for-the-badge&logo=responsividade&logoColor=30A3DC)
 ![Testes Unitários](https://img.shields.io/badge/Testes%20Unitários-000?style=for-the-badge&logo=testes&logoColor=30A3DC)
+
+
 
 &nbsp;
 
